@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [jlink072.PrjPcb]
+   Generated File[jlink072-RoundHoles.TXT]
+   Generated File[jlink072-SlotHoles.TXT]
+   Generated File[jlink072.LDP]
+   Generated File[jlink072.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:42:31 On 18-Apr-22

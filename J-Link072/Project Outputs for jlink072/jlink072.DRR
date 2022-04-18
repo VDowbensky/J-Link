@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: jlink072.PcbDoc   18-Apr-22  20:42:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : jlink072-RoundHoles.TXT
+ASCII SlotHoles File : jlink072-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             22        PTH        109.62mm (4.32inch)
+T2      0.5mm (20mil)                                             Slot              2         PTH        27.57mm (1.09inch)
+T3      0.5mm (20mil)                                             Round             2         NPTH       4.50mm (0.18inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              26
+
+Total Processing Time (hh:mm:ss) : 00:00:00
